@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Me chamo de Erasmo Junior 👋
 
-<!--
-**ejrsil/ejrsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+- 🔭 Atualmente trabalho como assistente de infra
+- 🌱 Cursando ADS
+##
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://instagram.com/silvrjunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ejrsilveira321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erasmo-jos%C3%A9-da-silveira-j%C3%BAnior-5ba9a1212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
