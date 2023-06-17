@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Atualmente trabalho como assistente de infra
-- 🌱 Cursando ADS
+- 🔭 Atualmente trabalho como assistente de infra.
+- 🌱 Cursando ADS.
 
 ##
 
