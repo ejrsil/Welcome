@@ -9,7 +9,7 @@
 <img align="center" alt="EJR_EXCEL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"> 
 <img align="center" alt="EJR-_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="center" alt="EJR_SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/> 
-<img align="center" alt="EJR_POWERBI" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"/>
+<img align="center" alt="EJR_POWERBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
 <img align="center" alt="EJR_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img align="center" alt="EJR_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
     
